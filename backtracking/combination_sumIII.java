@@ -5,6 +5,7 @@ import java.util.List;
 
 public class combination_sumIII {
     public static void main(String[] args) {
+
         System.out.println(combinationSum3(3,7));
     }
     public static List<List<Integer>> combinationSum3(int k, int n) {
