@@ -1,0 +1,17 @@
+[33mcommit 11538c81f49b782943d3e843d3c4d9816f005466[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Deepak Kumar <kumard18791@gmail.com>
+Date:   Tue Jan 2 00:16:16 2024 +0530
+
+    Solving Binary search using recursion
+
+[33mcommit 37d68462e407880ba528e55f11fec9b04105a25b[m
+Author: Deepak Kumar Chauhan <kumard18791@gmail.com>
+Date:   Mon Nov 6 14:51:52 2023 +0530
+
+    added goldmine solution from leetcode
+
+[33mcommit 04a1f342b378ad314adbd69ba0ccf56faffe2821[m
+Author: Deepak Kumar Chauhan <kumard18791@gmail.com>
+Date:   Mon Nov 6 13:54:57 2023 +0530
+
+    Backtracing solutions in java
